@@ -56,6 +56,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	}
 	$conn->close();
 }
+//test all fields
 
 function test_userdata($data) {
   $data = trim($data);
