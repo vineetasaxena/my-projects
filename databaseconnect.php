@@ -1,6 +1,6 @@
 <?php $servername = "localhost";
 $username = "githubloginpass";
-$password = "Testing@16";
+$password = "xxxxxx";
 $database = "githubloginpass";
 
 // Create connection
